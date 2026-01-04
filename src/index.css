@@ -36,9 +36,36 @@ h1 {
   line-height: 1.1;
 }
 
+.mainheader {
+  display: flex;
+  background-color: #d9d9d9;
+  color: black;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  font-weight: lighter;
+  border: 1px solid black;
+}
+
 .headers {
   display: flex;
+  background-color: #1F3B4D;
+  color: white;
   align-items: center;
+  justify-content: center;
+  padding: 10px;
+  text-align: center;
+  padding: 10px;
+  font-weight: lighter;
+  margin: 0;
+  border: 1px solid black;
+}
+
+.info-section {
+  padding: 20px;
+  background-color: #f0efef;
+  border: 1px solid black;
 }
 
 button {
