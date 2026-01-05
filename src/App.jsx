@@ -152,6 +152,10 @@ function App() {
         <p>
           The Content Health Accuracy Index (CHAI) is an educational tool for evaluating health-related social media content. Scores reflect the reviewer’s judgment based on information available at the time and may be subjective or incomplete. CHAI scores are not medical advice and should not be used as the sole basis for diagnosis, treatment, or clinical decision-making. For personal medical guidance, consult a qualified clinician.
         </p>
+
+        <p>
+          *For this tool, “medical professionals” include physicians (MD, DO, MBBS), doctoral-level professionals (PhD, PsyD, DPT, OTD, DPM, DDS, DMD, OD), public health and science professionals (MPH, MS), nursing and advanced practice providers (RN, NP, PA), allied health professionals (RD, PharmD, SLP), and recognized professional or academic organizations (e.g., Massachusetts Medical Society)
+        </p>
       </div>
 
     </>
